@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmer_misery:roach_meatball"
+    },
+    {
+      "item": "farmer_misery:roach_meatball"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "farmer_misery:gokiburi_yaki"
+  }
+}

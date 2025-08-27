@@ -1,0 +1,22 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmer_misery:bottled_roach"
+    },
+    {
+      "item": "farmer_misery:bottled_roach"
+    },
+    {
+      "item": "farmer_misery:bottled_roach"
+    },
+    {
+      "item": "farmer_misery:bottled_roach"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "farmer_misery:roach_skewer"
+  }
+}
